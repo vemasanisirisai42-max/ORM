@@ -59,7 +59,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-
+![alt text]({C3017BA5-1C71-4DFB-B669-289B07F431F6}.png)
 
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
